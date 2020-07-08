@@ -1,0 +1,27 @@
+Welcome to Steven Reynolds 3D Model Viewer.
+
+*******************************************
+If you would like to run the application first please go to
+
+3DModelViewer_SR\3DModelViewer_SR\Release
+
+and run the 3DModelViewer_SR
+
+YOu will then be greeted with a console application and the model render screen.
+Please click on the Console application and type the file names only in the Release folder.
+First of all type test and press enter.
+
+******************************************
+Inputting your own Model
+
+If you would like to see how your model runs in my model viewer then please make sure that 
+Your model has been exported with triangulation and centred otherwise it will not run! (It will still display, you will be able to see parts of it)
+
+******************************************
+
+All the information that you require is on screen, and you are required to close down the application by pressing the Red X button and then relaunching it.
+******************************************
+
+All the source code is available for this project and is vieweable if you open up the SLN.
+
+Enjoy
